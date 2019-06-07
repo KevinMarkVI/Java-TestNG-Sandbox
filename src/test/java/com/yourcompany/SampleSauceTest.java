@@ -71,7 +71,7 @@ public class SampleSauceTest {
 //        	caps.setCapability("testobject_device", "iPhone_SE_10_2_POC111"); 
 //        	caps.setCapability("testobject_cache_device", true);
 //        	caps.setCapability("automationName", "XCUITest");
-//        	caps.setCapability("testobject_api_key", "C8F800C576464CF3B5BD67CBD14B2288"); 
+
 
 //--------------------------------------------------------------------------------------------------------------------------------------
     
